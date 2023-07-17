@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBpkDsNu+8oAbjgjHa8IT5L3lh6meNlNfRjnESSpvmhhQfo11vWyJ124lIyWj/wYHkVKWIYmhv4GXJItLg08Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raini\\Downloads\\Calculadora-main\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raini\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\raini\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\raini\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\raini\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
