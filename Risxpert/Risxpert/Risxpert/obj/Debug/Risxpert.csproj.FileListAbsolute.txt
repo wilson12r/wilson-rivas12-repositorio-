@@ -1,0 +1,15 @@
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\bin\Debug\Risxpert.exe.config
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\bin\Debug\Risxpert.exe
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\bin\Debug\Risxpert.pdb
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.csproj.AssemblyReference.cache
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.Properties.Resources.resources
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.csproj.GenerateResource.cache
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.csproj.CoreCompileInputs.cache
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.exe
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.pdb
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.Form2.resources
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\bin\Debug\LiteDB.dll
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\bin\Debug\LiteDB.xml
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.csproj.CopyComplete
+C:\Users\alexm\OneDrive\Escritorio\Everything\ITLA\C#\Risxpert\Risxpert\obj\Debug\Risxpert.Form1.resources
